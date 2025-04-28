@@ -1,0 +1,59 @@
+{
+    "categories3": [],
+    "activeTab2": null,
+
+    "categories2": [
+      {
+        "name": "Hospital Services",
+        "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+        "children": 
+        [
+          {
+            "name": "Soft Tissue Surgery",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "General Surgery",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "Pet Vaccinations",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "Spay & Neuter",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "Orthopedics Surgery",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "In-House Diagnostics",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "Pet Euthanasia",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          },
+          {
+            "name": "Pet Health Certificate",
+            "slug": "https://demo.drvenkysanimalhospital.com/landing-page#our-services",
+            "children": []
+          }
+          
+
+        ]
+      }
+     
+
+    ]
+  }
+  

@@ -1,0 +1,4 @@
+[10-Oct-2024 08:26:17 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/kozlmwpj/drvenkysanimalhospital.com/frontend/wp-content/plugins/woocommerce/includes/class-wc-install.php on line 919
+[10-Oct-2024 08:26:18 UTC] PHP Warning:  Undefined property: stdClass::$edit_page in /home/kozlmwpj/drvenkysanimalhospital.com/frontend/wp-includes/capabilities.php on line 234
+[10-Oct-2024 09:27:16 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kozlmwpj/drvenkysanimalhospital.com/frontend/wp-content/plugins/leadin/public/admin/class-deactivationform.php on line 24
+[10-Oct-2024 09:27:22 UTC] PHP Warning:  Attempt to read property "id" on null in /home/kozlmwpj/drvenkysanimalhospital.com/frontend/wp-content/plugins/leadin/public/admin/class-deactivationform.php on line 24

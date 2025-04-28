@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Dog Service",
+    "slug": "dog-service",
+    "children": [
+      {
+        "name": "Dog Walking",
+        "slug": "dog-walking",
+        "children": []
+      },
+      {
+        "name": "Dog Grooming",
+        "slug": "dog-grooming",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Cat Service",
+    "slug": "cat-service",
+    "cover": "path-to-cat-image.jpg",
+    "children": [
+      {
+        "name": "Cat Sitting",
+        "slug": "cat-sitting",
+        "children": []
+      },
+      {
+        "name": "Cat Grooming",
+        "slug": "cat-grooming",
+        "children": []
+      }
+    ]
+  }
+]

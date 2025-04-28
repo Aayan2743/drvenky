@@ -1,0 +1,4 @@
+html body.nestcatmode .add_to_cart_button,
+html body.nestcatmode .add.button, html body.nestcatmode .single_add_to_cart_button {
+  display: none !important;
+}/*# sourceMappingURL=catalog.css.map */

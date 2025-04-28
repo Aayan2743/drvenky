@@ -1,0 +1,12 @@
+html body:not(.logged-in){ 
+    .add_to_cart_button ,
+    .add.button ,  .single_add_to_cart_button{
+        display:none!important;
+    }
+}
+html .logged-in{
+    .add_to_cart_button ,
+    .add.button ,  .single_add_to_cart_button{
+        display:inline-block!important;
+    }
+}   
